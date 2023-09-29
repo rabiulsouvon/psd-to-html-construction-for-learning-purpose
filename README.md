@@ -1,2 +1,2 @@
 # psd-to-html-construction-for-learning-purpose
-This theme creates using HTML5, CSS, Bootstrap 4, JavaScript and is highly customizable &amp; looks awesome on tablets and mobile devices.
+This theme is created using HTML5, CSS, Bootstrap 4, and JavaScript is highly customizable &amp; looks incredible on tablets and mobile devices.
